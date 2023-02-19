@@ -1,2 +1,2 @@
 # ProGitForProgrammers
-a learing procedure
+a git learning practice
